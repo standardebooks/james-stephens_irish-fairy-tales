@@ -38,38 +38,49 @@
 		<meta property="term" refines="#subject-2">sh85050124</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103481</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>This collection of short stories, retold by Irish author <a href="https://standardebooks.org/ebooks/james-stephens">James Stephens</a>, focussed mainly on the adventures of legendary hunter-warrior Fionn mac Uail and his companions in the Fianna. The stories often feature the magical people of the Shí (fairies) and their interactions with the residents of medieval Ireland.</p>
+			<p>Following is a brief description of the stories included in this work:
+			  <ul>
+				<li>The Story of Tuan mac Cairill — Tuan mac Cairill tells the story of how he came to be born by two mothers.</li>
+				<li>The Boyhood of Fionn — The story of Fionn from childhood until he became the leader of the Fianna.</li>
+				<li>The Birth of Bran — The origin of Fionn’s favorite dogs: Bran and Sceólan.</li>
+				<li>Oisín’s Mother — The story of Saeve, the mother of Fionn’s son Oisín. </li>
+				<li>The Wooing of Becfola — Becfola’s meeting, marriage, and eventual estrangement with Dermod, King of Ireland.</li>
+				<li>The Little Brawl at Allen — During a feast, a fight breaks out between Fionn’s men and those of Goll mac Morna.</li>
+				<li>The Carl of the Drab Coat — The challenge by Cael of the Iron is answered by a mysterious stranger in a drab coat. </li>
+				<li>The Enchanted Cave of Cesh Corran — During a hunt, Fionn and many of the Fianna are captured by the fairy daughters of Conaran.</li>
+				<li>Becuma of the White Skin — Becuma arrives in Ireland from beyond the Shí, marries the King of Ireland, and becomes rivals with Art, the King’s son.</li>
+				<li>Mongan’s Frenzy — The story of Mongan’s origin, as well as his struggle to reclaim his wife after having lost her in a bad trade.</li>
+			  </ul>
+			</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2892</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">I believe most of the names in this text are Gaelic/Irish (ga-IE). Unfortunately, I lack the knowledge to distinguish between the Gaelic and the English names, so I've left them all untagged.</meta>
 		<meta property="se:word-count">66297</meta>
 		<meta property="se:reading-ease.flesch">76.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Irish_Fairy_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-stephens_irish-fairy-tales</meta>
 		<dc:creator id="author">James Stephens</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Stephens, James</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_Stephens</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79109238</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Dezider Czölder</dc:contributor>
+		<meta property="file-as" refines="#artist">Czölder, Dezider</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">A. Elizabeth Warren</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Warren, Elizabeth A.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jan Genoch</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Genoch, Jan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
