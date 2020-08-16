@@ -42,21 +42,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>This collection of short stories, retold by Irish author <a href="https://standardebooks.org/ebooks/james-stephens">James Stephens</a>, focussed mainly on the adventures of legendary hunter-warrior Fionn mac Uail and his companions in the Fianna. The stories often feature the magical people of the Shí (fairies) and their interactions with the residents of medieval Ireland.</p>
-			<p>Following is a brief description of the stories included in this work:
-			  <ul>
-				<li>The Story of Tuan mac Cairill — Tuan mac Cairill tells the story of how he came to be born by two mothers.</li>
-				<li>The Boyhood of Fionn — The story of Fionn from childhood until he became the leader of the Fianna.</li>
-				<li>The Birth of Bran — The origin of Fionn’s favorite dogs: Bran and Sceólan.</li>
-				<li>Oisín’s Mother — The story of Saeve, the mother of Fionn’s son Oisín. </li>
-				<li>The Wooing of Becfola — Becfola’s meeting, marriage, and eventual estrangement with Dermod, King of Ireland.</li>
-				<li>The Little Brawl at Allen — During a feast, a fight breaks out between Fionn’s men and those of Goll mac Morna.</li>
-				<li>The Carl of the Drab Coat — The challenge by Cael of the Iron is answered by a mysterious stranger in a drab coat. </li>
-				<li>The Enchanted Cave of Cesh Corran — During a hunt, Fionn and many of the Fianna are captured by the fairy daughters of Conaran.</li>
-				<li>Becuma of the White Skin — Becuma arrives in Ireland from beyond the Shí, marries the King of Ireland, and becomes rivals with Art, the King’s son.</li>
-				<li>Mongan’s Frenzy — The story of Mongan’s origin, as well as his struggle to reclaim his wife after having lost her in a bad trade.</li>
-			  </ul>
-			</p>
+			&lt;p&gt;This collection of short stories, retold by Irish author &lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephens&lt;/a&gt;, focussed mainly on the adventures of legendary hunter-warrior Fionn mac Uail and his companions in the Fianna. The stories often feature the magical people of the Shí (fairies) and their interactions with the residents of medieval Ireland.&lt;/p&gt;
+			&lt;p&gt;Following is a brief description of the stories included in this work: &lt;ul&gt;&lt;li&gt;The Story of Tuan mac Cairill — Tuan mac Cairill tells the story of how he came to be born by two mothers.&lt;/li&gt;&lt;li&gt;The Boyhood of Fionn — The story of Fionn from childhood until he became the leader of the Fianna.&lt;/li&gt;&lt;li&gt;The Birth of Bran — The origin of Fionn’s favorite dogs: Bran and Sceólan.&lt;/li&gt;&lt;li&gt;Oisín’s Mother — The story of Saeve, the mother of Fionn’s son Oisín.&lt;/li&gt;&lt;li&gt;The Wooing of Becfola — Becfola’s meeting, marriage, and eventual estrangement with Dermod, King of Ireland.&lt;/li&gt;&lt;li&gt;The Little Brawl at Allen — During a feast, a fight breaks out between Fionn’s men and those of Goll mac Morna.&lt;/li&gt;&lt;li&gt;The Carl of the Drab Coat — The challenge by Cael of the Iron is answered by a mysterious stranger in a drab coat. &lt;/li&gt;&lt;li&gt;The Enchanted Cave of Cesh Corran — During a hunt, Fionn and many of the Fianna are captured by the fairy daughters of Conaran.&lt;/li&gt;&lt;li&gt;Becuma of the White Skin — Becuma arrives in Ireland from beyond the Shí, marries the King of Ireland, and becomes rivals with Art, the King’s son.&lt;/li&gt;&lt;li&gt;Mongan’s Frenzy — The story of Mongan’s origin, as well as his struggle to reclaim his wife after having lost her in a bad trade.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2892</dc:source>
@@ -95,27 +82,29 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/the-story-of-tuan-mac-cairill.xhtml" id="the-story-of-tuan-mac-cairill.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-boyhood-of-fionn.xhtml" id="the-boyhood-of-fionn.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-birth-of-bran.xhtml" id="the-birth-of-bran.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/becuma-of-the-white-skin.xhtml" id="becuma-of-the-white-skin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/mongans-frenzy.xhtml" id="mongans-frenzy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/oisins-mother.xhtml" id="oisins-mother.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-wooing-of-becfola.xhtml" id="the-wooing-of-becfola.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-little-brawl-at-allen.xhtml" id="the-little-brawl-at-allen.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-birth-of-bran.xhtml" id="the-birth-of-bran.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-boyhood-of-fionn.xhtml" id="the-boyhood-of-fionn.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-carl-of-the-drab-coat.xhtml" id="the-carl-of-the-drab-coat.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-enchanted-cave-of-cesh-corran.xhtml" id="the-enchanted-cave-of-cesh-corran.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/becuma-of-the-white-skin.xhtml" id="becuma-of-the-white-skin.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/mongans-frenzy.xhtml" id="mongans-frenzy.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-little-brawl-at-allen.xhtml" id="the-little-brawl-at-allen.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-story-of-tuan-mac-cairill.xhtml" id="the-story-of-tuan-mac-cairill.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wooing-of-becfola.xhtml" id="the-wooing-of-becfola.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="the-story-of-tuan-mac-cairill.xhtml"/>
 		<itemref idref="the-boyhood-of-fionn.xhtml"/>
 		<itemref idref="the-birth-of-bran.xhtml"/>
