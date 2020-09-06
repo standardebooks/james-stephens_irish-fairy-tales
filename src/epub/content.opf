@@ -42,7 +42,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This collection of short stories, retold by Irish author &lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephens&lt;/a&gt;, focusses mainly on the adventures of legendary hunter-warrior Fionn mac Uail and his companions in the Fianna. The stories often feature the magical people of the Shí (fairies) and their interactions with the residents of medieval Ireland.&lt;/p&gt;
+			&lt;p&gt;This collection of short stories, retold by Irish author &lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephens&lt;/a&gt;, focuses mainly on the adventures of legendary hunter-warrior Fionn mac Uail and his companions in the Fianna. The stories often feature the magical people of the Shí (fairies) and their interactions with the residents of medieval Ireland.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2892</dc:source>
@@ -59,6 +59,9 @@
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="annotator">James Stephens</dc:contributor>
+		<meta property="file-as" refines="#annotator">Stephens, James</meta>
+		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-1">A. Elizabeth Warren</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Warren, Elizabeth A.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>

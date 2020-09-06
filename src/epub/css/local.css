@@ -52,20 +52,19 @@ section[epub|type~="dedication"] > *{
 	}
 }
 
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
 section[epub|type~="dedication"] p{
-	display: block;
 	font-size: 0.8em;
 	text-transform: uppercase;
-}
-
-section[epub|type~="dedication"] p span{
-	display: block;
 	text-align: center;
-	padding: 0.25em;
 }
 
-section[epub|type~="dedication"] p span.dedication-name{
+section[epub|type~="dedication"] p strong {
 	font-size: 2em;
+	line-height: 2;
 }
 /* End all dedications */
 
