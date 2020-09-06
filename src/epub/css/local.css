@@ -57,12 +57,11 @@ section[epub|type~="dedication"]{
 }
 
 section[epub|type~="dedication"] p{
-	font-size: 0.8em;
 	text-transform: uppercase;
 	text-align: center;
 }
 
-section[epub|type~="dedication"] p strong {
+section[epub|type~="dedication"] p b {
 	font-size: 2em;
 	line-height: 2;
 }
