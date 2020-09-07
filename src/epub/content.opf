@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2892</dc:source>
 		<meta property="se:production-notes">I believe most of the names in this text are Gaelic/Irish (ga-IE). Unfortunately, I lack the knowledge to distinguish between the Gaelic and the English names, so I've left them all untagged.</meta>
-		<meta property="se:word-count">66297</meta>
+		<meta property="se:word-count">66247</meta>
 		<meta property="se:reading-ease.flesch">76.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Irish_Fairy_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-stephens_irish-fairy-tales</meta>
@@ -76,6 +76,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
