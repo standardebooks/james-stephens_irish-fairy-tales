@@ -7,11 +7,6 @@
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] + p,
-[epub|type~="z3998:song"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:verse"] p > span,
 [epub|type~="z3998:song"] p > span{
 	display: block;
