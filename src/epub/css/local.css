@@ -24,6 +24,10 @@ p span.i1{
 }
 
 /* All dedications */
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
 section[epub|type~="dedication"] > *{
 	display: inline-block;
 	margin: auto;
@@ -46,10 +50,7 @@ section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
 }
-
-section[epub|type~="dedication"]{
-	text-align: center;
-}
+/* End all dedications */
 
 section[epub|type~="dedication"] p{
 	font-variant: small-caps;
@@ -60,7 +61,6 @@ section[epub|type~="dedication"] p b{
 	font-size: 1.5em;
 	line-height: 1.5;
 }
-/* End all dedications */
 
 /* All epigraphs */
 [epub|type~="epigraph"]{
