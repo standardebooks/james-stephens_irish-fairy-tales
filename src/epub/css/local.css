@@ -70,8 +70,8 @@ section[epub|type~="dedication"] p b{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 /* End all epigraphs */
