@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">sh2008103481</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;This collection of short stories, retold by Irish author &lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephens&lt;/a&gt;, focuses mainly on the adventures of legendary hunter-warrior Fionn mac Uail and his companions in the Fianna. The stories often feature the magical people of the Shí (fairies) and their interactions with the residents of medieval Ireland.&lt;/p&gt;
