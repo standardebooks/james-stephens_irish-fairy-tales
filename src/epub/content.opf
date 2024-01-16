@@ -57,12 +57,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_Stephens_(author)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79109238</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="annotator">James Stephens</dc:contributor>
-		<meta property="file-as" refines="#annotator">Stephens, James</meta>
-		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-1">A. Elizabeth Warren</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Warren, Elizabeth A.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
