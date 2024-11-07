@@ -58,7 +58,7 @@ section[epub|type~="dedication"] p{
 }
 
 section[epub|type~="dedication"] p b{
-	font-size: 1.5em;
+	font-size: larger;
 	line-height: 1.5;
 }
 
