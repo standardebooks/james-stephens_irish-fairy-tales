@@ -49,7 +49,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2892</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.79041</dc:source>
 		<meta property="se:production-notes">I believe most of the names in this text are Gaelic/Irish (ga-IE). Unfortunately, I lack the knowledge to distinguish between the Gaelic and the English names, so I've left them all untagged.</meta>
-		<meta property="se:word-count">66247</meta>
+		<meta property="se:word-count">65933</meta>
 		<meta property="se:reading-ease.flesch">76.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Irish_Fairy_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-stephens_irish-fairy-tales</meta>
