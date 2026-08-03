@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales</dc:identifier>
 		<dc:date>2020-09-07T00:24:08Z</dc:date>
@@ -42,10 +42,10 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;This collection of short stories, retold by Irish author &lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephens&lt;/a&gt;, focuses mainly on the adventures of legendary hunter-warrior Fionn mac Uail and his companions in the Fianna. The stories often feature the magical people of the Shí (fairies) and their interactions with the residents of medieval Ireland.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2892</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.79041</dc:source>
